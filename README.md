@@ -1,4 +1,4 @@
-# HoStello Amazon Orders
+# Amazon Orders
 
 ## Table of Contents
 
